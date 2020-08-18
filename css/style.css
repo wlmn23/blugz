@@ -6,13 +6,14 @@
 
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
+	padding: 0px;
 	font-family: sans-serif;
 }
 
 section{
 	max-width: 1000px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 1000px;
+	margin-right: 1000px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
