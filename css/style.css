@@ -11,8 +11,8 @@ body{
 
 section{
 	max-width: 1000px;
-	margin-left: 1000px;
-	margin-right: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
