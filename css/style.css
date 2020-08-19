@@ -46,7 +46,7 @@ nav a:hover{
 	text-decoration: underline  /* Hover styles to let people know they can click it */
 }
 nav a:hover{
-	background-color: #FAE1DF
+	background-color: #0E131F
 }
 nav a:active {
   background-color: #B9E28C
